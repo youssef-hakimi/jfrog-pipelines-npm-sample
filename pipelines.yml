@@ -1,6 +1,7 @@
 template: true   # required for local templates
 valuesFilePath: ./values.yml
 
+
 resources:
   - name: npm_repo_jfp_example
     type: GitRepo
